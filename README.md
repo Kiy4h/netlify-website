@@ -1,4 +1,5 @@
 # Victor Hugo CMS Template
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b23dd098-7e46-4b0a-96ca-34cda87c1fd4/deploy-status)](https://app.netlify.com/sites/kiyah/deploys)
 <!-- Markdown snippet -->
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bdougie/hyde-cms-theme)
 
