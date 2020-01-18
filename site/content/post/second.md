@@ -9,7 +9,11 @@ title: Review of The Sugar Maze Activity
 
 Maze is a Sugar activity, aimed at children of any age to learn by playing. The goal of the game is for the player's character to reach the finish.
 
-There are an infinite levels of difficulties which the player can choose from. One can choose to enable holes in the maze, to make it more challenging. The maze can be a multiplayer by enabling sharing.
+There are an infinite levels of difficulties which the player can choose from.
+
+![hard level](images/Maze-hard-level.png)
+
+One can choose to enable holes in the maze, to make it more challenging. The maze can be a multiplayer by enabling sharing.
 
 ![holes](images/Maze-with-risks.png)
 
