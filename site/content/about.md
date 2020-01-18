@@ -5,4 +5,6 @@ title = "about"
 
 +++
 
-## This is where our page Markdown content lives.
+## About Me
+
+I'm [Kiy4h on Github](https://github.com/Kiy4h/) and this is my *unofficial* website. Feel free to look around!
